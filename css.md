@@ -1,4 +1,4 @@
-# JS
+# css
 
 ## CSS Basics
 
@@ -93,7 +93,7 @@ border-color: color;
 
 ```css
 /*To add padding  */
-padding:10px;
+padding: 10px;
 
 /*To add margin */
 margin: 10px;
@@ -107,7 +107,7 @@ border: 20px solid black;
 
 ```css
 /*To change the font size */
-font-size: px;
+font-size: 5px;
 
 /*To change the font family  */
 font-family: fontName;
@@ -122,8 +122,8 @@ font-weight: px;
 There are multiple units in CSS to size things
 `px`: a CSS unit that represents number of pixels
 `%`: a CSS unit that represents the percentage relatively to the container
-`pt`: a CSS unit which is relative to the font size of the parent element
-`em`: a CSS unit which is relative to the font size of the html element
+`em`: a CSS unit which is relative to the font size of the parent element
+`rem`: a CSS unit which is relative to the font size of the html element
 `vh`: a CSS unit that represents the view height. We use it usually for background size and set it to 100 to get the size of the whole screen vertically.
 
 ```css
