@@ -4,9 +4,23 @@
 
 `cd folderName`: is used to navigate to the folder
 
+`cd ..`: go back
+
+`cd -`: go back to the previous
+
 `ls`: is used to list all items in a folder
 
+`ls-la`: is used to list all items in a folder with details
+
 `pwd`: is used to print the current working directory to know where we are in the folder structure
+
+`mkdir`: create new dirctory 
+
+`touch`: create new file
+
+`code .`: create new file
+
+`npx create-react-app my-app `: create new **react project**
 
 ## Github basics
 

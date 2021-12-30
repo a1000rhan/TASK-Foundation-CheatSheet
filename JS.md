@@ -119,8 +119,8 @@ console.log(`${x+y}`); // prints: 101
 // Equals
 "5" == 5 // returns true
 
-// Strictly Equals (Better usage: returns true if same value, same type)
-"5" === 5 // returns true
+// Strictly Equals (Better usage: returns false if same value, same type)
+"5" === 5 // returns false
 
 // doesn't equal
 5 != 5 // returns false
